@@ -24,7 +24,7 @@ The result is a page well formatted with all our employees specifications.
 The app runs as a Node CLI.
 
 # Screenshots
-
+<img src='images/myTeam.png' alt='my team' width='50%' height='50%'>
 
 
 ## Submission Links
