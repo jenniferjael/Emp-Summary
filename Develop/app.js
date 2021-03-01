@@ -177,6 +177,9 @@ const createIntern = () => {
 // Hint: you may need to check if the `output` folder exists and create it if it
 // does not.
 
+// After the user has input all employees desired, call the `render` function (required
+// above) and pass in an array containing all employee objects; the `render` function will
+// generate and return a block of HTML including templated divs for each employee!
 const renderEl = () =>{
     fs.writeFile(outputPath, render(generalAnsw), (err) => {
         (err) ? console.error(err): console.log ('success');
@@ -185,9 +188,7 @@ const renderEl = () =>{
      
 }
 
+
 oneQ();
-// After the user has input all employees desired, call the `render` function (required
-// above) and pass in an array containing all employee objects; the `render` function will
-// generate and return a block of HTML including templated divs for each employee!
 
 
