@@ -1,0 +1,39 @@
+body {
+  background-color:lightslategray;
+}
+
+.col-12{
+    background-color: lightslategray;
+}
+h1 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6kjTjSn-hgFeHFzspozyPkMxitQ7xV0OqQ&usqp=CAU);
+  background-repeat: no-repeat;
+  font-size: 50px;
+  padding: 40px;
+  font-weight: 600px;
+  font-weight: bold;
+  color: yellowgreen;
+  text-decoration:underline; 
+  box-shadow: 5px 5px 10px yellow;
+}
+.card{
+    background-color: yellow;
+}
+.card-header{
+    font-weight: bolder;
+}
+.card-title{
+    font-weight: bolder;
+}
+.card-body{
+    background-color: yellowgreen;
+}
+ul{
+    font-weight: bold;
+    
+}
+.list-group li{
+    background-color: lightgray;
+}
+
+
