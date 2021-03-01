@@ -28,5 +28,4 @@ The app runs as a Node CLI.
 
 
 ## Submission Links
-https://github.com/jenniferjael/Emp-Summary
-https://jenniferjael.github.io/Emp-Summary/
+<https://github.com/jenniferjael/Emp-Summary>
